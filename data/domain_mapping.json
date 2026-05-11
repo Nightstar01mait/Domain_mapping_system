@@ -1,0 +1,198 @@
+{
+  "DSA": {
+    "Arrays": [
+      "Two Pointer",
+      "Sliding Window",
+      "Prefix Sum",
+      "Kadane Algorithm",
+      "Binary Search on Arrays"
+    ],
+    "Linked Lists": [
+      "Singly Linked List",
+      "Doubly Linked List",
+      "Cycle Detection",
+      "Fast Slow Pointer",
+      "List Reversal"
+    ],
+    "Stacks": [
+      "Monotonic Stack",
+      "Expression Evaluation",
+      "Next Greater Element",
+      "Balanced Parentheses",
+      "Stack Using Queue"
+    ],
+    "Queues": [
+      "Circular Queue",
+      "Deque",
+      "Priority Queue",
+      "Queue Using Stack",
+      "Breadth First Search Queue"
+    ],
+    "Trees": [
+      "Binary Search Tree",
+      "Tree Traversal",
+      "Lowest Common Ancestor",
+      "Heap Tree",
+      "Balanced Trees"
+    ],
+    "Graphs": [
+      "Depth First Search",
+      "Breadth First Search",
+      "Shortest Path",
+      "Topological Sort",
+      "Union Find"
+    ]
+  },
+
+  "Machine Learning": {
+    "Supervised Learning": [
+      "Linear Regression",
+      "Logistic Regression",
+      "Decision Trees",
+      "Support Vector Machine",
+      "Random Forest"
+    ],
+    "Unsupervised Learning": [
+      "K Means Clustering",
+      "Hierarchical Clustering",
+      "Dimensionality Reduction",
+      "Principal Component Analysis",
+      "Association Rules"
+    ],
+    "Neural Networks": [
+      "Feed Forward Networks",
+      "Backpropagation",
+      "Activation Functions",
+      "Loss Functions",
+      "Weight Initialization"
+    ],
+    "Deep Learning": [
+      "Convolutional Neural Networks",
+      "Recurrent Neural Networks",
+      "Transformers",
+      "Transfer Learning",
+      "Attention Mechanism"
+    ],
+    "Model Evaluation": [
+      "Cross Validation",
+      "Confusion Matrix",
+      "Precision Recall",
+      "ROC AUC",
+      "Bias Variance Tradeoff"
+    ]
+  },
+
+  "Web Development": {
+    "Frontend": [
+      "HTML Semantics",
+      "CSS Flexbox",
+      "CSS Grid",
+      "DOM Manipulation",
+      "Responsive Design"
+    ],
+    "JavaScript": [
+      "Closures",
+      "Promises",
+      "Async Await",
+      "Event Loop",
+      "ES6 Modules"
+    ],
+    "React": [
+      "Hooks",
+      "State Management",
+      "Component Lifecycle",
+      "Context API",
+      "Routing"
+    ],
+    "Backend": [
+      "REST API",
+      "Authentication",
+      "Middleware",
+      "Session Management",
+      "Error Handling"
+    ],
+    "Databases": [
+      "SQL Joins",
+      "Normalization",
+      "Indexing",
+      "Transactions",
+      "MongoDB Aggregation"
+    ]
+  },
+
+  "Operating Systems": {
+    "Process Management": [
+      "Process Scheduling",
+      "Context Switching",
+      "Threads",
+      "Deadlocks",
+      "Inter Process Communication"
+    ],
+    "Memory Management": [
+      "Paging",
+      "Segmentation",
+      "Virtual Memory",
+      "Page Replacement",
+      "Memory Allocation"
+    ],
+    "File Systems": [
+      "File Allocation",
+      "Directory Structure",
+      "Disk Scheduling",
+      "Inodes",
+      "Access Permissions"
+    ],
+    "Concurrency": [
+      "Mutex",
+      "Semaphore",
+      "Producer Consumer Problem",
+      "Readers Writers Problem",
+      "Race Condition"
+    ],
+    "CPU Scheduling": [
+      "FCFS",
+      "Round Robin",
+      "Priority Scheduling",
+      "Shortest Job First",
+      "Multilevel Queue"
+    ]
+  },
+
+  "Computer Networks": {
+    "Network Fundamentals": [
+      "OSI Model",
+      "TCP IP Model",
+      "IP Addressing",
+      "Subnetting",
+      "MAC Addressing"
+    ],
+    "Transport Layer": [
+      "TCP Handshake",
+      "Flow Control",
+      "Congestion Control",
+      "UDP Communication",
+      "Port Management"
+    ],
+    "Routing": [
+      "Distance Vector Routing",
+      "Link State Routing",
+      "Routing Tables",
+      "Static Routing",
+      "Dynamic Routing"
+    ],
+    "Application Layer": [
+      "HTTP HTTPS",
+      "DNS Resolution",
+      "SMTP",
+      "FTP",
+      "WebSocket"
+    ],
+    "Network Security": [
+      "Firewalls",
+      "SSL TLS",
+      "VPN",
+      "Intrusion Detection",
+      "Packet Filtering"
+    ]
+  }
+}
